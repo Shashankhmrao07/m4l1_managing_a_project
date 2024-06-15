@@ -4,10 +4,14 @@ Blue
 Cyan
 Yellow
 Charcoal
-Khaki
+White
 Coral
 Silver
-Fuchsia
+Gold
+Green
 Purple
+Grey    
 Brown
 Red
+Baby Pink
+Voilet
